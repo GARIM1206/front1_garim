@@ -1,0 +1,41 @@
+.head-title{
+    color:white;
+    background-color: tomato; 
+    text-align: center;
+    padding: 10px;
+}
+.intro h3 {
+    color:tomato;
+}
+
+.intro{
+    text-align:left;   
+    font-weight: bold;
+}
+.intro1 h4{
+    color: tomato;
+}
+.intro1{
+    text-align: center;
+
+}
+
+th {
+    background: tomato;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid green;
+    padding: 7px
+}
+.link{
+    text-align: center;   
+    background: greenyellow;
+}
+.link a{
+    color:green;
+}
